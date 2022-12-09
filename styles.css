@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+* {
+  box-sizing: border-box;
+}
 body{
     background-color: rgba(155,89,182,0.7);
     font-family: 'open sans',sans-serif;
