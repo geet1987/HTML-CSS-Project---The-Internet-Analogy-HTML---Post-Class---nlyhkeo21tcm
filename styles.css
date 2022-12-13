@@ -32,7 +32,7 @@ body{
     transition: opacity 0.4s ease;
 
 }
- .content .show{
+.phone .content .show{
     opacity: 1;
 }
 
